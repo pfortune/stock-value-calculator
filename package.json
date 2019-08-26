@@ -1,0 +1,24 @@
+{
+  "name": "closing-stock-value",
+  "version": "1.0.0",
+  "description": "Merges stock data and price data from two CSV files, and returns a single CSV with the total value of stock.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfortune/closing-stock-value.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pfortune/closing-stock-value/issues"
+  },
+  "homepage": "https://github.com/pfortune/closing-stock-value#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "csv-parser": "^2.3.0",
+    "yargs": "^14.0.0"
+  }
+}

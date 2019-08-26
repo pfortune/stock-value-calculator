@@ -59,3 +59,12 @@ typings/
 
 # next.js build output
 .next
+
+# data
+stock.csv
+prices.csv
+stock-count.csv
+prices.json
+stock.json
+stock-price-combined.json
+stock-price-combined.csv
